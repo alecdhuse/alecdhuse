@@ -1,7 +1,7 @@
 ## Welcome to my GitHub page.
 
 - My name is Alec Dhuse; I'm a cybersecurity engineer and coder.
-- I'm interested in threat intelligence, malware analysis, data visualization, web apps, and maps.
+- I'm interested in threat intelligence, malware analysis, detection engineering, data visualization, web apps, and maps.
 - I've created a static file analyzer called [Lantern Shark](https://github.com/alecdhuse/Lantern-Shark) that runs in the browser without sending files or data to the internet.
 - I publish [reports](https://github.com/alecdhuse/Publications) on the interesting threat activity I find.
 - I also write [detection rules](https://github.com/alecdhuse/Created-Detection-Rules) in a variety of formats.
